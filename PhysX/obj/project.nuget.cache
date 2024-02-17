@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KvReO+VzS1yfnd6xp3cUw9WCi9RfjFCF7O4VioD9bkuP5Jh1pwIxw3NPkL3ZQVEopbxyxP5JUnlC2eT4xouMaQ==",
+  "success": true,
+  "projectFilePath": "F:\\VisualStudioRepos\\LearnC#\\PhysX\\PhysX\\PhysX.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.drawing.common\\8.0.1\\system.drawing.common.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

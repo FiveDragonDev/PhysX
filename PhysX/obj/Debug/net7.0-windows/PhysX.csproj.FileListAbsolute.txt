@@ -1,0 +1,12 @@
+F:\VisualStudioRepos\LearnC#\PhysX\PhysX\bin\Debug\net7.0-windows\PhysX.deps.json
+F:\VisualStudioRepos\LearnC#\PhysX\PhysX\bin\Debug\net7.0-windows\PhysX.dll
+F:\VisualStudioRepos\LearnC#\PhysX\PhysX\bin\Debug\net7.0-windows\PhysX.pdb
+F:\VisualStudioRepos\LearnC#\PhysX\PhysX\obj\Debug\net7.0-windows\PhysX.csproj.AssemblyReference.cache
+F:\VisualStudioRepos\LearnC#\PhysX\PhysX\obj\Debug\net7.0-windows\PhysX.GeneratedMSBuildEditorConfig.editorconfig
+F:\VisualStudioRepos\LearnC#\PhysX\PhysX\obj\Debug\net7.0-windows\PhysX.AssemblyInfoInputs.cache
+F:\VisualStudioRepos\LearnC#\PhysX\PhysX\obj\Debug\net7.0-windows\PhysX.AssemblyInfo.cs
+F:\VisualStudioRepos\LearnC#\PhysX\PhysX\obj\Debug\net7.0-windows\PhysX.csproj.CoreCompileInputs.cache
+F:\VisualStudioRepos\LearnC#\PhysX\PhysX\obj\Debug\net7.0-windows\PhysX.dll
+F:\VisualStudioRepos\LearnC#\PhysX\PhysX\obj\Debug\net7.0-windows\refint\PhysX.dll
+F:\VisualStudioRepos\LearnC#\PhysX\PhysX\obj\Debug\net7.0-windows\PhysX.pdb
+F:\VisualStudioRepos\LearnC#\PhysX\PhysX\obj\Debug\net7.0-windows\ref\PhysX.dll
